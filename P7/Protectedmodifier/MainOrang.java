@@ -1,5 +1,5 @@
 package P7.Protectedmodifier;
-
+// mobil
 class Orang {
     protected String nama;
 
