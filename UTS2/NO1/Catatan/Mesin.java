@@ -1,3 +1,4 @@
+package NO1.Catatan;
 class Mesin {
     private int id;
     private String merk;

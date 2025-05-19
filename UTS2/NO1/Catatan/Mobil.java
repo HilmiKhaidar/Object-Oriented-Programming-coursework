@@ -1,3 +1,4 @@
+package NO1.Catatan;
 class Mobil {
     private String merk;
     private Mesin mesin;

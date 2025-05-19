@@ -1,11 +1,12 @@
+package NO1.Catatan;
 class Prodi {
     private int id;
-    private String nama;
+    private String nama ;
 
     Prodi() {
     }
 
-    public void setInt(int var1) {
+    public void setId(int var1) {
         this.id = var1;
     }
 

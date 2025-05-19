@@ -1,3 +1,4 @@
+package NO1.Catatan;
 class Mahasiswa {
     private int id;
     private String nama;

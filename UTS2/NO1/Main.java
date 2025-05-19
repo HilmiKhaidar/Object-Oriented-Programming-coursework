@@ -1,3 +1,4 @@
+package NO1;
 public class Main {
     public static void main(String[] args) {
         // Membuat objek Prodi dan Himpunan

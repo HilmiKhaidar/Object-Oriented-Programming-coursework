@@ -1,3 +1,4 @@
+package NO1.Catatan;
 import java.io.PrintStream;
 
 public class Main {
